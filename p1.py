@@ -1,1 +1,0 @@
-print("shadow-core FIX")
