@@ -1,0 +1,1 @@
+print("shadow-core INSERT")
