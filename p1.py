@@ -1,1 +1,1 @@
-print("shadow-core INSERT")
+print("shadow-core UPDATE")
